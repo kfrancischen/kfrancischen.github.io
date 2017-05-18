@@ -45,7 +45,7 @@ h6, .h6 {
 .blog-nav-item {
   position: relative;
   display: inline-block;
-  padding: 10px;
+  padding: 12px;
   font-weight: 500;
   color: #cdddeb;
   font-size: 18px;
@@ -121,10 +121,15 @@ h6, .h6 {
 }
 
 
+/* row for home */
+.row-home{
+    text-align: center;
+}
+
 /* Pagination */
 .pager {
   margin-bottom: 60px;
-  text-align: left;
+  text-align: center;
 }
 .pager > li > a {
   width: 140px;
